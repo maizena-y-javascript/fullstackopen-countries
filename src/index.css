@@ -1,0 +1,13 @@
+body {
+  min-height: 40svh;
+  padding: 10svh 10%;
+  color:aquamarine;
+  background-color: rgb(29, 29, 41);
+}
+
+button {
+  margin: 2px;
+  color:aquamarine;
+  background-color: rgba(127, 255, 212, 0.229);
+  cursor: pointer;
+}
